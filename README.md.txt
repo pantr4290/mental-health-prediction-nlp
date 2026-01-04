@@ -1,3 +1,9 @@
+## How to Run
+1. Install dependencies:
+   pip install numpy pandas scikit-learn nltk
+2. Open Jupyter Notebook:
+   python -m notebook
+3. Run the notebook in `notebooks/mentalhealth_model.ipynb`
 # Mental Health Prediction using NLP
 
 This project implements a supervised machine learning model to predict
@@ -23,3 +29,4 @@ depressive tendencies from Twitter text data.
 - Scikit-learn
 - NLTK
 - Jupyter Notebook
+
